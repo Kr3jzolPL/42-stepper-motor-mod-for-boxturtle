@@ -27,5 +27,5 @@ The picture shows a thick 42 stepper motor because I don't have a thin 42 steppe
 
 | Rotaton distance update in turtle.cfg                                                                                         |
 |-------------------------|:----------:|------------------------------------------------------------------------------------------|
-|gear_ratio: 50:17 |
-|rotation_distance: 23.20|
+|gear_ratio: 50:17                                                                                                               |
+|rotation_distance: 23.20                                                                                                        |
