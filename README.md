@@ -1,6 +1,6 @@
 42 Stepper Motor Mod For Boxturtle
 
-This is a mod that uses a 42 step motor and a regular BMG extruder to replace the extruder part of Boxturtle
+This is a mod that uses a NEMA 42 stepper and a regular BMG extruder to replace the extruder part of Boxturtle
 
 This mod has been tested and it is used in my second turtle for second printer, since loading too fast will stall the motor i reduced the long move speed from 150 to 50mm, it makes loading and unloading slower but i prefer reliability over speed
 
