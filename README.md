@@ -4,7 +4,9 @@ This is a mod that uses a NEMA 42 stepper and a regular BMG extruder to replace 
 
 This mod has been tested and it is used in my second turtle for second printer, since loading too fast will stall the motor i reduced the long move speed from 150 to 50mm, it makes loading and unloading slower but i prefer reliability over speed
 
-I used the creality Z motors 42-34
+Be sure to update your rotation distance and gear ration because if you use the standard one from afc software you will grind the filament.
+
+I used the Creality Z motors 42-34
 
 ![IMG_20241220_195207](https://github.com/user-attachments/assets/358af745-fa1e-440f-9449-5ff83dbd3cfa)
 
