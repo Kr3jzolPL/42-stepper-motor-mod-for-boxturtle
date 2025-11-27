@@ -23,7 +23,7 @@ The picture shows a thick 42 stepper motor because I don't have a thin 42 steppe
 | BMG extruder kit        | 1        |                                                                                          |
 | 42x42x23 stepper motor  | 1        | Be careful not to buy the thicker version; it might not fit.                             |
 | M3x35 socket head screws | 3       | Leftovers from assembly.                                                                 |
-|-------------------------|:----------:|------------------------------------------------------------------------------------------|
+||
 | Rotaton distance update in turtle.cfg
 |gear_ratio: 50:17                                                                                                               |
 |rotation_distance: 23.20                                                                                                        |
